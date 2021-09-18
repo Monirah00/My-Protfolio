@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/My-Protfolio/static/css/main.0a2c91f1.chunk.css",
+    "main.js": "/My-Protfolio/static/js/main.ea96f57e.chunk.js",
+    "main.js.map": "/My-Protfolio/static/js/main.ea96f57e.chunk.js.map",
+    "runtime-main.js": "/My-Protfolio/static/js/runtime-main.c73fe939.js",
+    "runtime-main.js.map": "/My-Protfolio/static/js/runtime-main.c73fe939.js.map",
+    "static/js/2.e59fa0a9.chunk.js": "/My-Protfolio/static/js/2.e59fa0a9.chunk.js",
+    "static/js/2.e59fa0a9.chunk.js.map": "/My-Protfolio/static/js/2.e59fa0a9.chunk.js.map",
+    "static/js/3.dda2f1c4.chunk.js": "/My-Protfolio/static/js/3.dda2f1c4.chunk.js",
+    "static/js/3.dda2f1c4.chunk.js.map": "/My-Protfolio/static/js/3.dda2f1c4.chunk.js.map",
+    "index.html": "/My-Protfolio/index.html",
+    "static/css/main.0a2c91f1.chunk.css.map": "/My-Protfolio/static/css/main.0a2c91f1.chunk.css.map",
+    "static/js/2.e59fa0a9.chunk.js.LICENSE.txt": "/My-Protfolio/static/js/2.e59fa0a9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/My-Protfolio/static/media/Banner.6703cb60.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c73fe939.js",
+    "static/js/2.e59fa0a9.chunk.js",
+    "static/css/main.0a2c91f1.chunk.css",
+    "static/js/main.ea96f57e.chunk.js"
+  ]
+}
